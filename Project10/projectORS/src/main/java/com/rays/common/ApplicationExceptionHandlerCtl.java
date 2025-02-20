@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 /**
  * Handles application propagated exceptions
  * 
- * Raj Jat 
+ * Kapil Dudhe 
  *
  */
 
@@ -17,7 +17,7 @@ public class ApplicationExceptionHandlerCtl {
 	@ExceptionHandler(value = RuntimeException.class) // custom exception handle
 	public ORSResponse handleRuntimeException(RuntimeException e) {
 		ORSResponse res = new ORSResponse(false);
-		res.addMessage(e.getMessage() + "Raj Jat");
+		res.addMessage(e.getMessage() + "Kapil Dudhe");
 		return res;
 	}
 

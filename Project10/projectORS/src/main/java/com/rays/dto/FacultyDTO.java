@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 import com.rays.common.BaseDTO;
 /**
- * Raj Jat 
+ * Kapil Dudhe 
  *
  */
 @Entity

@@ -39,7 +39,7 @@ import com.rays.service.RoleServiceInt;
 import com.rays.service.UserServiceInt;
 
 /**
- * Raj Jat
+ * Kapil Dudhe
  *
  */
 @RestController
@@ -210,7 +210,7 @@ public class UserCtl extends BaseCtl<UserForm, UserDTO, UserServiceInt> {
 	public ORSResponse uploadPic(@PathVariable Long userId, @RequestParam("file") MultipartFile file,
 			HttpServletRequest req) {
 
-		System.out.println("User ID id --------------Raj Jat" + userId);
+		System.out.println("User ID id --------------Kapil Dudhe" + userId);
 
 		UserDTO userDTO = baseService.findById(userId, userContext);
 

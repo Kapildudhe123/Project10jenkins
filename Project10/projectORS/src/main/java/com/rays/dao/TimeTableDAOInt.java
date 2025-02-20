@@ -3,7 +3,7 @@ package com.rays.dao;
 import com.rays.common.BaseDAOInt;
 import com.rays.dto.TimeTableDTO;
 /**
- * Raj Jat 
+ * Kapil Dudhe 
  *
  */
 public interface TimeTableDAOInt extends BaseDAOInt<TimeTableDTO> {

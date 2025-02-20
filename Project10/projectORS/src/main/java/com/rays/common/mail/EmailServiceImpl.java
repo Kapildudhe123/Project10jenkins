@@ -21,7 +21,7 @@ import com.rays.common.message.MessageServiceInt;
 
 /**
  * Provides email services
- * Raj Jat 
+ * Kapil Dudhe 
  */
 @Component
 public class EmailServiceImpl {

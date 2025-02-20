@@ -7,7 +7,7 @@ import com.rays.dto.RoleDTO;
 /**
  * College Service interface.
  * 
- * Raj Jat 
+ * Kapil Dudhe 
  
  */
 

@@ -4,7 +4,7 @@ import java.lang.reflect.Method;
 
 /**
  * Contains generic attributes of a form. It is extended by all form beans.
- * Raj Jat 
+ * Kapil Dudhe 
  */
 
 public class BaseForm {

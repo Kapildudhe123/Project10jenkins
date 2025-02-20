@@ -25,7 +25,7 @@ import com.rays.service.SubjectServiceInt;
 
 
 /**
- * Raj Jat 
+ * Kapil Dudhe 
  *
  */
 @RestController

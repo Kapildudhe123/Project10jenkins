@@ -17,7 +17,7 @@ import com.rays.service.CollegeServiceInt;
 
 
 /**
- * Raj Jat 
+ * Kapil Dudhe 
  *
  */
 @RestController

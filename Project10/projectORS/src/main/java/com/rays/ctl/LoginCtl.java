@@ -35,7 +35,7 @@ import com.rays.service.UserServiceInt;
  * Login controller provides API for Sign Up, Sign In and Forgot password
  * operations
  * 
- * Raj Jat
+ * Kapil Dudhe
  */
 @RestController
 @RequestMapping(value = "Auth")
@@ -61,7 +61,7 @@ public class LoginCtl extends BaseCtl<UserForm, UserDTO, UserServiceInt> {
 		// res.setSuccess(true);
 		res.addMessage("Logout Successfully");
 		// res.addResult("roleList", list);
-		System.out.println("Raj Jat logout");
+		System.out.println("Kapil Dudhe logout");
 		return res;
 	}
 

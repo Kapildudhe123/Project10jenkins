@@ -14,7 +14,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.rays.common.FrontCtl;
 
 /**
- * Raj Jat
+ * Kapil Dudhe
  *
  */
 @SpringBootApplication
